@@ -4,4 +4,6 @@
  * @param {number} numberPlayers the number of players in the game
  * @return
  */
-export const dealCards = () => {}
+export const dealCards = (deck, numberPlayers) => {
+  const numberOfHands = numberPlayers
+}
