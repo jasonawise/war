@@ -5,5 +5,5 @@
  * @return
  */
 export const dealCards = (deck, numberPlayers) => {
-  const numberOfHands = numberPlayers
+  const numberOfHandsToDeal = numberPlayers
 }
